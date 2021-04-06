@@ -9,7 +9,7 @@ namespace smsapp
     {
         static void Main(string[] args)
         {
-            TwilioClient.Init("AC071e44d9f62b4f7c33ed011cf9f741d3", "f16a646bba4cdb1c46de67e5fb9c3f5a");
+            TwilioClient.Init("", "");
 
             //var call = CallResource.Create(
             //    new PhoneNumber("+96170395280"), 
